@@ -1,1 +1,5 @@
+---
+layout: post
+---
+
 Coming soon!
